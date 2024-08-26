@@ -36,6 +36,7 @@ export default function App() {
 
   return (
     // <GestureHandlerRootView style={styles.container}>
+    //Testing Only.
      <View style={styles.container}>
       <View style={styles.imageContainer}>
       <ImageViewer placeholderImageSource={PlaceholderImage} />
